@@ -1,10 +1,22 @@
 # RFan
 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg?style=for-the-badge)
 
-> Version : **1.0.0**
+> Version : **1.0.1**
 
 ---
+
+## Table of contents
+
+- [About](#about)
+- [Features](#features)
+- [Components](#components)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Changelog](#changelog)
+- [Contributing](#contributing)
+- [License](#license)
+- [Authors](#authors)
 
 ## About
 
@@ -46,6 +58,9 @@ See [CHANGELOG](CHANGELOG.md) for changes
 ## Contributing
 
 Contributing is disabled for this repository
+
+## License
+This project is licensed under the AGPL-3.0 License. See [LICENSE](LICENSE.md) for more information.
 
 ## Authors
 - [@Zarox28](https://github.com/Zarox28)
