@@ -2,7 +2,7 @@
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg?style=for-the-badge)
 
-> Version : **1.0.1**
+> Version: **1.0.1**
 
 ---
 
@@ -38,7 +38,7 @@
 ## Installation
 
 1. Clone the repository
-2. Open the `RFan.ino` file in the Arduino IDE
+2. Open the `rfan.ino` file in the Arduino IDE
 3. Install the `IRremote` library
 4. Upload the code to the Arduino Uno
 
