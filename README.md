@@ -62,7 +62,7 @@ Contributing is disabled for this repository
 
 ## License
 
-This project is licensed under the AGPL-3.0 License. See [LICENSE](LICENSE.md) for more information.
+This project is licensed under the AGPL-3.0 License. See [LICENSE](LICENSE.md) for more information
 
 ## Authors
 
