@@ -53,6 +53,7 @@
 ---
 
 ## Changelog
+
 See [CHANGELOG](CHANGELOG.md) for changes
 
 ## Contributing
@@ -60,7 +61,9 @@ See [CHANGELOG](CHANGELOG.md) for changes
 Contributing is disabled for this repository
 
 ## License
+
 This project is licensed under the AGPL-3.0 License. See [LICENSE](LICENSE.md) for more information.
 
 ## Authors
+
 - [@Zarox28](https://github.com/Zarox28)
